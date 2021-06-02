@@ -21,7 +21,7 @@ h1, h2{
     background-size: cover;
     height: 50vh;
     min-height: 600px;
-    color: white;
+    color:whitesmoke
 }
 .lista-novedades{
     margin: 0;
@@ -46,8 +46,9 @@ h1, h2{
 
 .lista-novedades li a:hover{
     color: white;
+    text-decoration-line: underline;
     background-color: #dadada;
-   
+    
 }
 
 .lista-novedades li a img{
@@ -78,4 +79,26 @@ h1, h2{
 .btn{
     color: white;
     border-color: white;
+}
+
+.accordion-body{
+    color: white;
+}
+
+.accordion-item{
+background-color: transparent;
+color:white;
+
+}
+
+.accordion-button{
+    background-color: transparent;
+    color: white;
+    
+    
+}
+
+.accordion-button:not(.collapsed){
+    color: white;
+    background-color: transparent;
 }
