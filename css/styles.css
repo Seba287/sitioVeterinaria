@@ -102,3 +102,24 @@ color:white;
     color: white;
     background-color: transparent;
 }
+
+.hero3{
+    background: url(../img/trayectoria.jpg);
+    background-size: cover;
+    height: 50vh;
+    min-height: 600px;
+    background-color: grey;
+}
+
+.hero4{
+    background-color: grey;
+
+}
+
+.card-img-top{
+ 
+width: 280px;
+height: 200px;
+ 
+ 
+}
