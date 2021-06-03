@@ -112,14 +112,23 @@ color:white;
 }
 
 .hero4{
-    background-color: grey;
+    background: url(../img/fondonosotros.jpg);
 
 }
 
 .card-img-top{
  
-width: 280px;
-height: 200px;
+/*width: 280px;
+height: 200px;*/
+
  
- 
+}
+
+.card-title{
+    font-family: 'Abril Fatface', cursive ;
+    
+}
+
+.card-body{
+    background-color:darkgrey;
 }
